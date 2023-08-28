@@ -7,13 +7,11 @@
 
 ## Description de projet
 
+Une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
 
+Les données de la Banque mondiale sont disponibles à l’adresse suivante :
 
-
-
-une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
-
-Mark, votre manager, vous a convié à une réunion pour vous présenter le projet d’expansion à l’international de l’entreprise. Il vous confie une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
+Ma première mission confie d'analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
 
 Voici les différentes questions:
 
@@ -26,8 +24,6 @@ Mark vous a donc demandé de réaliser une analyse pré-exploratoire de ce jeu d
 
 ## Data
 Les données de la Banque mondiale sont disponibles à l’adresse suivante : https://datacatalog.worldbank.org/dataset/education-statistics
-
-
 
 
 Valider la qualité de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées ?)
